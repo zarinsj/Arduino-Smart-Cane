@@ -1,5 +1,5 @@
 This file contains the licensing for the public use of the Ardunio
-framework.
+framework the team used.
 
 .....................................................................
 
