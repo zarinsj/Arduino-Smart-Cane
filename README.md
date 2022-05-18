@@ -1,4 +1,3 @@
-
 # Arduino Developed Smart Cane - No Pain No Cane
 No Pain No Cane's Arduino utlized smart cane is a university developed project aimed at assisting people with a visual impairment in everyday life. The programming language utilized was Arduino's own computing platform, and was implemented first onto an Arduino Uno then an Arduino Nano (both assembled prior to the team purchasing such boards).
 
